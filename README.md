@@ -8,27 +8,38 @@ I’m a Python and GIS developer focused on building geospatial tools, automatin
 ## 🚀 Tech Stack & Skills
 
 ### Languages & Frameworks
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-https://img.shields.io/badge/GeoDjango-44A833?style=for-the-badge&logo=django&logoColor=white
+https://img.shields.io/badge/GeoDjango-44A833?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+https://img.shields.io/badge/GeoDjango-44A833?style=for-the-badge&logo=django&logoColor=white)
 
 ### GIS & Geospatial
-https://img.shields.io/badge/ArcGIS-2E8B57?style=for-the-badge&logo=esri&logoColor=white
+[https://img.shields.io/badge/ArcGIS-2E8B57?style=for-the-badge&logo=esri&logoColor=white
 https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white
 https://img.shields.io/badge/GeoPandas-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/Shapely-000000?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/GDAL-FF6F00?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/GDAL-FF6F00?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/ArcGIS-2E8B57?style=for-the-badge&logo=esri&logoColor=white
+https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white
+https://img.shields.io/badge/GeoPandas-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Shapely-000000?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/GDAL-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases & Cloud GIS
-https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+[https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 https://img.shields.io/badge/PostGIS-00694F?style=for-the-badge&logo=postgis&logoColor=white
-https://img.shields.io/badge/Amazon%20Redshift-4053D6?style=for-the-badge&logo=amazon-redshift&logoColor=white
+https://img.shields.io/badge/Amazon%20Redshift-4053D6?style=for-the-badge&logo=amazon-redshift&logoColor=white](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/PostGIS-00694F?style=for-the-badge&logo=postgis&logoColor=white
+https://img.shields.io/badge/Amazon%20Redshift-4053D6?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 
 ### DevOps, Tools & Platforms
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
