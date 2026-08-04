@@ -50,20 +50,6 @@ I’m a Python and GIS developer with experience building geospatial tools, auto
 
 ---
 
-## GitHub Stats
-Replace `YOUR_USERNAME` with your GitHub username:
-
-General Stats:
-https://github-readme-stats.vercel.app/api?username=taznasafi&show_icons=true
-
-Top Languages:
-https://github-readme-stats.vercel.app/api/top-langs/?username=taznasafi&layout=compact
-
-Streak Stats:
-https://github-readme-streak-stats.herokuapp.com/?user=taznasafi
-
----
-
 ## Contact
 - Location: Washington, DC
 
