@@ -1,6 +1,6 @@
 
 # Hi, I'm **Murtaza Taz Nasafi** 👋
-### Python Developer • GIS Specialist • IT/GIS Enthusiast
+### Python Developer • GIS Specialist • IT Enthusiast
 
 I’m a Python and GIS developer with experience building geospatial tools, automation scripts, and web-based GIS applications. I enjoy combining programming with spatial analysis to solve real-world problems.
 
